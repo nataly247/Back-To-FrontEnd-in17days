@@ -24,3 +24,6 @@ https://codepen.io/Nataly247/pen/MGNVWK
 https://codepen.io/Nataly247/pen/pPwKRM
 my favourite poem
 
+## May 31, 2018  Text Effects
+https://codepen.io/Nataly247/pen/VdLyJq
+
