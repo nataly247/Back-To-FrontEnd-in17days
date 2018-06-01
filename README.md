@@ -27,3 +27,7 @@ my favourite poem
 ## May 31, 2018  Text Effects
 https://codepen.io/Nataly247/pen/VdLyJq
 
+## June 1, 2018  Cool Text Effect for my AI site
+https://codepen.io/Nataly247/full/LrVMYy/  
+(forked)
+
