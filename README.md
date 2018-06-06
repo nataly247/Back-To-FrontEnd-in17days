@@ -40,3 +40,8 @@ https://codepen.io/Nataly247/pen/rKexxg
 ## June 4, 2018  Coming soon
 https://codepen.io/Nataly247/full/XYdgpq/
 
+## June 5, 2018  Developing LeoStudia project
+
+## June 6, 2018  Logo Prototype
+https://codepen.io/Nataly247/full/jKrwew/
+
