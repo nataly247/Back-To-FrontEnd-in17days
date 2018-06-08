@@ -45,3 +45,7 @@ https://codepen.io/Nataly247/full/XYdgpq/
 ## June 6, 2018  Logo Prototype
 https://codepen.io/Nataly247/full/jKrwew/
 
+## June 7, 2018  BootstrapSplash
+
+## June 8, 2018  CreativeChaos
+
