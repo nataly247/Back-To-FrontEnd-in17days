@@ -47,5 +47,8 @@ https://codepen.io/Nataly247/full/jKrwew/
 
 ## June 7, 2018  BootstrapSplash
 
-## June 8, 2018  CreativeChaos
+## June 8 , 2018  CreativeChaos
 
+## June 9  Leostudia alive
+
+## June 10  Apply
