@@ -7,16 +7,16 @@ And I guess will be logical to start with "Hello word!" of course and claiming t
 ## May 25, 2018  Hello word! 
 https://codepen.io/Nataly247/pen/NMyyQa
 
-
-## May 26, 2018 My CSS Fish 
-https://codepen.io/Nataly247/pen/eVgOQo
+## May 26, 2018 Ocean
+https://codepen.io/Nataly247/full/RJbmrR/
+interesting text effect, pure CSS
 
 ## May 27, 2018 My lovely Carpathians 
 https://codepen.io/Nataly247/pen/oyNvxg
 
-
-## May 28, 2018 Ocean
-https://codepen.io/Nataly247/full/RJbmrR/
+## May 28, 2018 My CSS Fish 
+https://codepen.io/Nataly247/pen/eVgOQo
+moving text animation
 
 ## May 29, 2018 Card Grey&Colorful experiment
 https://codepen.io/Nataly247/pen/MGNVWK
